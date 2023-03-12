@@ -1,0 +1,12 @@
+
+# Compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv
+.venv
+
+# Temporary / local non-essential files
+temp.ipynb
+temp.txt
