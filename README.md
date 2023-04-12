@@ -1,6 +1,6 @@
 # Description
 
-A classical ML project for classifying digits from 0-9 based on a vector image with size 28x28. Dataset is the famous MNIST dataset.
+A classical ML project for classifying digits from 0-9 based on a vector image with size 28x28. Dataset is the famous MNIST dataset (http://yann.lecun.com/exdb/mnist/).
 
 # ML model
 
